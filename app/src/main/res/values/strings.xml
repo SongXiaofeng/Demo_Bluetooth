@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Demo_Bluetooth</string>
+    <string name="ble_not_supported">The phone don\`t support the Bluetooth.</string>
+    <string name="error_bluetooth_not_supported">The bluetooth not supported.</string>
 </resources>
